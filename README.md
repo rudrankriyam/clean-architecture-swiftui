@@ -1,4 +1,6 @@
 ### Articles related to this project
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/clean-architecture-swiftui&type=Date)](https://star-history.com/#rudrankriyam/clean-architecture-swiftui&Date)
+
 
 * [Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/?utm_source=nalexn_github)
 * [Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/?utm_source=nalexn_github)
