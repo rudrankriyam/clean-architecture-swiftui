@@ -1,5 +1,4 @@
 ### Articles related to this project
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/clean-architecture-swiftui&type=Date)](https://star-history.com/#rudrankriyam/clean-architecture-swiftui&Date)
 
 
 * [Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/?utm_source=nalexn_github)
@@ -76,3 +75,5 @@ Repositories provide asynchronous API (`Publisher` from Combine) for making [CRU
 ---
 
 [![Twitter](https://img.shields.io/badge/twitter-nallexn-blue)](https://twitter.com/nallexn) [![blog](https://img.shields.io/badge/blog-github-blue)](https://nalexn.github.io/?utm_source=nalexn_github) [![venmo](https://img.shields.io/badge/%F0%9F%8D%BA-Venmo-brightgreen)](https://venmo.com/nallexn)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/clean-architecture-swiftui&type=Date)](https://star-history.com/#rudrankriyam/clean-architecture-swiftui&Date)
